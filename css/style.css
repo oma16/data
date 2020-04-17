@@ -1,0 +1,58 @@
+body{
+    background-color: blueviolet;
+    
+}
+
+img{
+    height:150;
+    width:150;
+    float: right;
+}
+main{
+border-style: double;
+border-top-color:white;
+border-bottom-color: tomato;
+border-right-color:tomato;
+border-left-color:white;
+padding: 20px;
+}
+form{
+    contain: content;
+    border-style: inset;
+    border-color: rgb(228, 186, 179);
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-left: 90px;
+    margin-right: 700px;
+    text-align:unset;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-color: white;
+}
+h1{
+    text-align: center;
+    color:red;
+    font-size: 40px;
+    text-shadow: 3px 2px white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+b{
+    text-align: justify;
+    text-indent: unset;
+    color:white;
+    font-size: 30px;
+    font-style: italic;
+}
+.nav-bar{
+    font-size: 20px;
+}
+span{
+    text-align: justify;
+    color:black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
