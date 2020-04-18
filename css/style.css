@@ -25,11 +25,9 @@ form{
     margin-right: 50px;
     margin-top:20px ;
     margin-bottom: 20px;
-    border-style: solid;
-    border-color: rgb(228, 186, 179);
-    border-radius: 10px;
+    
    
-    text-align:unset;
+    text-align:center;
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-color: white;
