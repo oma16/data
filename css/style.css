@@ -23,8 +23,11 @@ form{
     border-color: rgb(228, 186, 179);
     border-radius: 10px;
     padding-left: 10px;
-    margin-left: 90px;
-    margin-right: 700px;
+    padding-top: 10px;
+    margin-left: 60px;
+    margin-right: 950px;
+    margin-top:20px ;
+    margin-bottom: 200px;
     text-align:unset;
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
