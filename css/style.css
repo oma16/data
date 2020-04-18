@@ -20,7 +20,7 @@ padding: 20px;
 form{
     display: block;
     
-    border-style: inset;
+    border-style: solid;
     border-color: rgb(228, 186, 179);
     border-radius: 10px;
     padding-left: 10px;
