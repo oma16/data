@@ -15,7 +15,7 @@ border-bottom-color: tomato;
 border-right-color:tomato;
 border-left-color:white;
 padding: 20px;
-flex:content;
+
 }
 form{
     contain: content;
@@ -29,6 +29,7 @@ form{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-color: white;
+    flex:content;
 }
 h1{
     text-align: center;
