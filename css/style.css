@@ -18,7 +18,8 @@ padding: 20px;
 
 }
 form{
-    contain: content;
+    display: block;
+    
     border-style: inset;
     border-color: rgb(228, 186, 179);
     border-radius: 10px;
