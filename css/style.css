@@ -15,6 +15,7 @@ border-bottom-color: tomato;
 border-right-color:tomato;
 border-left-color:white;
 padding: 20px;
+flex:content;
 }
 form{
     contain: content;
