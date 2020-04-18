@@ -19,7 +19,12 @@ padding: 20px;
 }
 form{
     display: block;
-    
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top:20px ;
+    margin-bottom: 20px;
     border-style: solid;
     border-color: rgb(228, 186, 179);
     border-radius: 10px;
@@ -55,5 +60,9 @@ span{
     color:black;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+form>p{
+    text-align: center;
     
 }
